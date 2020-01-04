@@ -2,12 +2,11 @@
 //  CalcTests.swift
 //  CalcTests
 //
-//  Created by Risen on 29/12/2019.
-//  Copyright © 2019 Sergei S. All rights reserved.
+//  Created by Risen on 03/01/2020.
+//  Copyright © 2020 Sergei S. All rights reserved.
 //
 
 import XCTest
-@testable import Calc
 
 class CalcTests: XCTestCase {
 
